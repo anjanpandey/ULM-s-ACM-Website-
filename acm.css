@@ -1,0 +1,76 @@
+h1 {
+	text-align: center;
+	font-size: 30pt;
+	color: #500000;
+	padding-top: 10pt;
+}
+h2 {
+	text-align: center;
+	padding-left: 25pt;
+	color: #3399FF;
+}
+.container {
+	padding-top: 40pt;
+	padding-right: 70pt;
+	padding-left: 55pt;
+}
+.quickLink {
+	text-align: right;
+	padding-top: 66pt;
+	padding-right: 55pt;
+	float:right;
+}
+figure {
+	text-align: center;
+	padding-top: 2pt;
+}
+.discription{
+	padding-top:20pt;
+	padding-left:75pt;
+	padding-right:100pt;
+	text-align:center;
+}
+
+.Navigation{
+    list-style-type: none;
+    margin: 5pt;
+    padding-top: 7pt;
+    padding-left: 205pt;
+    padding-bottom:7pt;
+    background-color: #500000;
+    color: #FFFFCC;
+    position: relative;
+   }
+
+.Navigation li{
+	display: inline;
+	padding-right: 55pt;
+	padding-left: 55pt;
+	text-align:center;
+	padding-bottom: 62pt;
+	margin:15pt;
+	color:green;
+}
+
+.Navigation li :hover {
+	background-color: #FFDF00;
+	opacity:0.8;
+	color:black;
+    padding:7.5pt;
+	border-radius:5pt;
+}
+
+body{
+	background-color: #F8F8F8;
+	overflow: scroll;
+}
+
+.Links{
+	background-color: #edebe1;
+	border-color: #e0d9cb;
+	color: #817b58;
+	left:0;
+	position:absolute;
+	margin-top: 5em;
+	padding:4em;
+    }
